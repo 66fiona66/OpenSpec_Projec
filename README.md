@@ -9,10 +9,9 @@ L'aplicació permet als usuaris pujar imatges des del seu dispositiu, les quals 
 ## Característiques Principals
 
 - **Classificació en temps real**: Resposta immediata gràcies a l'ús de TensorFlow.js.
-- **Traducció al català**: Diccionari integrat per mostrar noms comuns d'aliments en català.
-- **Disseny Premium**: Interfície d'usuari reactiva i moderna construïda amb Vue 3 i Vuetify.
-- **Backend Robust**: Servidor Express amb gestió de fitxers mitjançant Multer.
-- **Compatibilitat**: Preparat per funcionar en versions recents de Node.js (v24+).
+- **Disseny**: Interfície d'usuari reactiva i moderna construïda amb Vue 3 i Vuetify.
+- **Backend**: Servidor Express amb gestió de fitxers mitjançant Multer.
+- **Compatibilitat**: Preparat per funcionar en versions recents de Node.js.
 
 ## Tecnologies Utilitzades
 
@@ -24,7 +23,7 @@ L'aplicació permet als usuaris pujar imatges des del seu dispositiu, les quals 
 ## Instal·lació i Ús
 
 ### Requisits previs
-- Node.js (versió 18 o superior recomanada)
+- Node.js 
 - npm
 
 ### Passos per a l'execució
